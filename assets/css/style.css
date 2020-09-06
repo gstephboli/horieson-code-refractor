@@ -8,11 +8,13 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Combined h1 element and took out seo class */
 h1 {
     display: inline-block;
     font-size: 48px;
-    color: #d9dcd6;
+}
+
+.seo {
+    color: #d9dcd6
 }
 
 .header {
@@ -57,13 +59,11 @@ p {
     background-position: center;
 }
 
-/* Made h2 into one element instead of three classes with the same element */
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* Took out the img class that was below and added max height to this class */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -81,7 +81,7 @@ h2 {
     display: inline-block;
     margin-left: 20px;
 }
- /* Combined these classes */
+ 
 .search-engine-optimization , .social-media-marketing{
     margin-bottom: 20px;
     padding: 50px;
@@ -91,7 +91,6 @@ h2 {
     color: #ffffff;
 }
 
-/* Made this an ID instead of class to allow clarification of img on right */
 #online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -101,7 +100,6 @@ h2 {
     color: #ffffff;
 }
 
-/* Combined these and left as an element */
 h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -118,7 +116,6 @@ h3 {
     background-color: #2589bd;
 }
 
-/* combined these classes */
 .benefit-lead , .benefit-brand , .benefit-cost{
     margin-bottom: 32px;
     color: #ffffff;
@@ -136,7 +133,7 @@ h3 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
- /* something isn't working. the spacing is off but I can't figure out what to use instead */
+
 .footer h2 {
     font-size: 20px;
     line-height: 0;
