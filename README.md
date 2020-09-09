@@ -22,6 +22,9 @@ Clone repository to terminal
 
 This website allows for clients of Horiseon to enhance the internet presense. Horiseon facilitates how the client will be able to market their company, what reviews can be seen by potential new clientele and enhance their social media marketing. 
 
+![HoriesonWebpage](homepage1.jpg)
+![HoriesonWebpage](homepage2.jpg)
+
 ## Credits
 
 I credit [W3Schools] (https://www.w3schools.com) for both the HTML and CSS assistance provided. 
