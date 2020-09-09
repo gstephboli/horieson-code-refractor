@@ -14,7 +14,9 @@ This project allowed me to really implement the concepts that we have learned in
 
 ## Installation
 
+Fork repository at https://github.com/gstephboli/horieson-code-refractor
 
+Clone repository to terminal
 
 ## Usage
 
