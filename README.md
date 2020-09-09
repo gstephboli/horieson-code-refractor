@@ -25,7 +25,7 @@ Open HTML then open webpage to default browser.
 This website allows for clients of Horiseon to enhance the internet presense. Horiseon facilitates how the client will be able to market their company, what reviews can be seen by potential new clientele and enhance their social media marketing. 
 
 ![HoriesonWebpage](./assets/images/homepage2.jpg)
-![HoriesonWebpage](./assets/images/homepage2.jpg)
+![HoriesonWebpage](./assets/images/homepage1.jpg)
 
 ## Credits
 
