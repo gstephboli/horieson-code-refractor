@@ -16,7 +16,9 @@ This project allowed me to really implement the concepts that we have learned in
 
 Fork repository at https://github.com/gstephboli/horieson-code-refractor
 
-Clone repository to terminal
+Clone repository to local terminal
+
+Open HTML then open webpage to default browser. 
 
 ## Usage
 
