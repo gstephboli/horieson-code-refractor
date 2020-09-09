@@ -18,7 +18,7 @@ This project allowed me to really implement the concepts that we have learned in
 
 ## Usage
 
-
+This website allows for clients of Horiseon to enhance the internet presense. Horiseon facilitates how the client will be able to market their company, what reviews can be seen by potential new clientele and enhance their social media marketing. 
 
 ## Credits
 
