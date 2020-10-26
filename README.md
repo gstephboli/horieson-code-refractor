@@ -14,7 +14,7 @@ This project allowed me to really implement the concepts that we have learned in
 
 ## Installation
 
-Fork repository at https://github.com/gstephboli/horieson-code-refractor
+Fork repository at https://github.com/gstephbolivar/horieson-code-refractor
 
 Clone repository to local terminal
 
@@ -30,6 +30,10 @@ This website allows for clients of Horiseon to enhance the internet presense. Ho
 ## Credits
 
 I credit [W3Schools] (https://www.w3schools.com) for both the HTML and CSS assistance provided. 
+
+####  **Stephany Bolivar** 
+*  **Github:** [@gstephbolivar](https://github.com/gstephbolivar)
+*  **Email:** [g.stephanybolivar@gmail.com](g.stephanybolivar@gmail.com)
 ## License
 
 MIT License
